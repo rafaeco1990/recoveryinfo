@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://recoveryinfo.com.br/sitemap.xml
